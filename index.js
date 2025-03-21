@@ -1,0 +1,1 @@
+const language = "Java Script";
