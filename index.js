@@ -1,1 +1,1 @@
-const language = "Java Script";
+const language = "Java";
